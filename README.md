@@ -22,5 +22,17 @@ Repositorio dedicado a la diculgación de música, aquí encontraras distintos �
 
 ### Características 
 
+- Listado de álbumes.
+- Inlcuye año de lanzamiento.
+- Inluye imagen del álbum.
+
+[Back to the top](#álbumes-de-música-que-debes-conocer)
+
+---
+### Cómo usar
+1. Clonar repositorio git clone https://github.com/Miguel-Takiss/Albumes-de-musica.git
+2. Abrir la carpeta en Visual code o tu editor de preferencia.
+3. Explorar.
+
 
 [Back to the top](#álbumes-de-música-que-debes-conocer)
