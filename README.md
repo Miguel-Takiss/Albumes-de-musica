@@ -40,6 +40,7 @@ Repositorio dedicado a la diculgación de música, aquí encontraras distintos �
 ---
 
 ### Demo en GitHub Pages
+
 Puedes ver el proyecto publicado aquí:  
  [Álbumes de música en GitHub Pages](https://miguel-takiss.github.io/Albumes-de-musica/)
 
